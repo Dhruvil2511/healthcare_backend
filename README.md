@@ -93,7 +93,7 @@ This project is a backend system for a healthcare application built using Django
   "username": "john",
   "email": "johndoe@example.com",
   "password": "securepassword123",
-  "confirm_password:"securepassword123"
+  "confirm_password":"securepassword123"
 }
 ```
 
